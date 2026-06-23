@@ -38,3 +38,33 @@ Bhavya Shree K S
 ## Project Type
 
 Academic MCA Project
+## Project Screenshots
+
+### Login Page
+
+![Login Page](login.png)
+
+### Home Page
+
+![Home Page](home.png)
+
+### Menu Page
+
+![Menu Page](menu.png)
+
+### Cart Page
+
+![Cart Page](cart.png)
+
+### Order Page
+
+![Order Page](order.png)
+
+### Order Placed Page
+
+![Order Placed Page](order placed.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](admin.png)
+
